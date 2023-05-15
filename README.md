@@ -108,6 +108,10 @@ server.address=x.x.x.x
 
 cmVmdGtuOjAxOjE3MTU3MjQxNDc6MllhQUM5VVNRbm4wWmJlRzJncnpINU9CNk9t
 
+cmVmdGtuOjAxOjE3MTU3MjQxNDc6MllhQUM5VVNRbm4wWmJlRzJncnpINU9CNk9t
+
+cmVmdGtuOjAxOjE3MTU3MjQyMDg6eXJRRWluaFE4V21Tc1FHQ21yRjFTNVQ4SUtv
+
 
 ## 4. Run with custom menu
 
